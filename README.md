@@ -42,6 +42,7 @@ If you find information that is not listed correctly, feel free to contribute as
 - [Zesty](#zesty)
 - [Dialoguewise](#dialoguewise)
 - [Kontent](#kontent)
+- [Contentrain](#contentrain)
 
 ---
 
@@ -341,3 +342,10 @@ If you find information that is not listed correctly, feel free to contribute as
 :link: https://kontent.ai/  
 :heavy_check_mark: Free developer account in cloud version  
 :x: Open Source, self-hosted
+
+---
+
+### Contentrain
+🔗 https://contentrain.io/
+✔️ Free developer account in free version
+❌ Open Source, self-hosted(Coming soon)
