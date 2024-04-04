@@ -58,5 +58,23 @@
     "system": true,
     "defaultField": false,
     "modelId": "asdasdsda"
+  },
+  {
+    "name": "deniz",
+    "fieldId": "deniz",
+    "modelId": "asdasdsda",
+    "componentId": "single-line-text",
+    "options": {
+      "default-value": {
+        "value": true,
+        "form": {
+          "single-line-text": {
+            "value": "123"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "string"
   }
 ]
