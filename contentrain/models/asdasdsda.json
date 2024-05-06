@@ -76,5 +76,23 @@
     },
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "234",
+    "fieldId": "234",
+    "modelId": "asdasdsda",
+    "componentId": "one-to-one",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "asdasdsda"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
