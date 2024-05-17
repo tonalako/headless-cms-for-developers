@@ -94,5 +94,14 @@
     },
     "validations": {},
     "fieldType": "relation"
+  },
+  {
+    "name": "qeqwe",
+    "fieldId": "qeqwe",
+    "modelId": "asdasdsda",
+    "componentId": "json",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
