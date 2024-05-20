@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "ewfwefwf"
+  },
+  {
+    "name": "dddmarkdown",
+    "fieldId": "dddmarkdown",
+    "modelId": "ewfwefwf",
+    "componentId": "md-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
