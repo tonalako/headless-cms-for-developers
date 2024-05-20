@@ -157,5 +157,14 @@
     "options": {},
     "validations": {},
     "fieldType": "date"
+  },
+  {
+    "name": "dateandtime",
+    "fieldId": "dateandtime",
+    "modelId": "ewfwefwf",
+    "componentId": "date-time",
+    "options": {},
+    "validations": {},
+    "fieldType": "date"
   }
 ]
