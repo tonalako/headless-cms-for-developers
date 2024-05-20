@@ -130,5 +130,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "phony",
+    "fieldId": "phony",
+    "modelId": "ewfwefwf",
+    "componentId": "phone-number",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
