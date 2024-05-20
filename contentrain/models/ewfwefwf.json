@@ -193,5 +193,23 @@
     },
     "validations": {},
     "fieldType": "relation"
+  },
+  {
+    "name": "onetomany",
+    "fieldId": "onetomany",
+    "modelId": "ewfwefwf",
+    "componentId": "one-to-many",
+    "options": {
+      "reference": {
+        "value": true,
+        "form": {
+          "reference": {
+            "value": "ewfwefwf"
+          }
+        }
+      }
+    },
+    "validations": {},
+    "fieldType": "relation"
   }
 ]
