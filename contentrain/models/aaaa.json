@@ -25,5 +25,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "colortest",
+    "fieldId": "colortest",
+    "modelId": "aaaa",
+    "componentId": "color",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
