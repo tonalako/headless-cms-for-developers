@@ -103,5 +103,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "starsand shine",
+    "fieldId": "starsand-shine",
+    "modelId": "ewfwefwf",
+    "componentId": "rating",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
