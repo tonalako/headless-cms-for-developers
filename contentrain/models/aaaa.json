@@ -16,5 +16,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "slug_test",
+    "fieldId": "slug_test",
+    "modelId": "aaaa",
+    "componentId": "slug",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
