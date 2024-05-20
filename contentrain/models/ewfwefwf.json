@@ -76,5 +76,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "integertest",
+    "fieldId": "integertest",
+    "modelId": "ewfwefwf",
+    "componentId": "integer",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
