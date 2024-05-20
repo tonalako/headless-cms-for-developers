@@ -112,5 +112,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "yepyeniyildiz",
+    "fieldId": "yepyeniyildiz",
+    "modelId": "ewfwefwf",
+    "componentId": "rating",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
