@@ -7,5 +7,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "url_test",
+    "fieldId": "url_test",
+    "modelId": "aaaa",
+    "componentId": "url",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
