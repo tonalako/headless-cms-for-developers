@@ -94,5 +94,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "rating",
+    "fieldId": "rating",
+    "modelId": "ewfwefwf",
+    "componentId": "rating",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
