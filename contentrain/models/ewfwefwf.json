@@ -139,5 +139,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "checkbox",
+    "fieldId": "checkbox",
+    "modelId": "ewfwefwf",
+    "componentId": "checkbox",
+    "options": {},
+    "validations": {},
+    "fieldType": "boolean"
   }
 ]
