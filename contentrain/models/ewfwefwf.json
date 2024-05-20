@@ -85,5 +85,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "decimaltest",
+    "fieldId": "decimaltest",
+    "modelId": "ewfwefwf",
+    "componentId": "decimal",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
