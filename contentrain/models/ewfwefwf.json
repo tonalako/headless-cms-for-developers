@@ -121,5 +121,14 @@
     "options": {},
     "validations": {},
     "fieldType": "number"
+  },
+  {
+    "name": "percent",
+    "fieldId": "percent",
+    "modelId": "ewfwefwf",
+    "componentId": "percent",
+    "options": {},
+    "validations": {},
+    "fieldType": "number"
   }
 ]
