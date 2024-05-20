@@ -1,0 +1,11 @@
+[
+  {
+    "name": "emailtest",
+    "fieldId": "emailtest",
+    "modelId": "aaaa",
+    "componentId": "email",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
+  }
+]
